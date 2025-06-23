@@ -24,7 +24,7 @@ This guide helps you develop custom modules in Odoo 18, covering everything from
 * [Installing the Module](#installing-the-module)
 * [Common Errors & Troubleshooting](#common-errors--troubleshooting)
 * [Tips & Best Practices](#tips--best-practices)
-* [License](#license)
+  
 
 ---
 
